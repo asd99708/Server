@@ -125,4 +125,9 @@
   	<param-name>maxPostSize</param-name>
   	<param-value>1024000</param-value>
   </context-param>
+  
+  <context-param>
+  	<param-name>CHAR_ADDR</param-name>
+  	<param-value>ws://localhost:8081/MustHaveJSP</param-value>
+  </context-param>
 </web-app>
